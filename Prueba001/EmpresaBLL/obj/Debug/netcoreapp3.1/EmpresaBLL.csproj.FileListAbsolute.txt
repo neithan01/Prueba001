@@ -1,0 +1,12 @@
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\bin\Debug\netcoreapp3.1\EmpresaBLL.deps.json
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\bin\Debug\netcoreapp3.1\EmpresaBLL.dll
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\bin\Debug\netcoreapp3.1\EmpresaBLL.pdb
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.csproj.AssemblyReference.cache
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.AssemblyInfo.cs
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.dll
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.pdb
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\bin\Debug\netcoreapp3.1\EmpresaBLL.runtimeconfig.json
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\bin\Debug\netcoreapp3.1\EmpresaBLL.runtimeconfig.dev.json
+C:\Users\santi\source\repos\Prueba001\EmpresaBLL\obj\Debug\netcoreapp3.1\EmpresaBLL.genruntimeconfig.cache
