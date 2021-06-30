@@ -16,5 +16,6 @@ namespace EmpresaBLL.Models
 
         public DbSet<Contacto> Contactos {get; set;}
         public DbSet<Telefono> Telefonos { get; set; }
+        public DbSet<Agenda> Agendas { get; set; }
     }
 }
